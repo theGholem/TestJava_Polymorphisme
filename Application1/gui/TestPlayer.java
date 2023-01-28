@@ -108,6 +108,8 @@ public class TestPlayer {
 		
 		for(MagicWandable e : elements2)
 			e.MagicWand();
+
+                 //This is an another remark 
 	}
 
 }
